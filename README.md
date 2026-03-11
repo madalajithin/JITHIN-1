@@ -71,18 +71,18 @@ margin:auto;
 
 /* NEON BUTTONS */
 
-.btn{
-display:block;
-text-decoration:none;
-padding:14px;
-margin:12px 0;
-border-radius:10px;
-font-weight:bold;
-color:white;
-border:2px solid #00ffff;
-background:transparent;
-transition:0.3s;
-box-shadow:0 0 10px #00ffff;
+.lion{
+width:220px;
+margin-top:20px;
+border-radius:15px;
+box-shadow:0 0 30px gold;
+animation: floatLion 4s ease-in-out infinite;
+}
+
+@keyframes floatLion{
+0%{transform:translateY(0);}
+50%{transform:translateY(-10px);}
+100%{transform:translateY(0);}
 }
 
 .btn:hover{
