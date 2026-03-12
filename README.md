@@ -125,7 +125,9 @@ opacity:0.6;
 
 <a href="https://github.com/madalajithin/JITHIN-CHOWDARY" class="btn" target="_blank">GitHub</a>
 
-<a href="https://www.snapchat.com/add/madala_jithin?share_id=w8HRt1b6hOg&locale=en-US" class="btn" target="_blank">Snapchat</a>
+<a href="https://www.snapchat.com/add/madala_jithin" class="btn" target="_blank">Snapchat - Madala Jithin</a>
+
+<a href="https://open.spotify.com/user/31f5h6nlpdqcosexrzye7rp4lfze" class="btn" target="_blank">Spotify - Jithin</a>
 
 </div>
 
